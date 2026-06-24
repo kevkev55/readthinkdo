@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: ReadThinkDo.
 toc: false
 ---
 
-This is the landing page.
+Learning from the best minds of our times.
 
 ## Explore
 
