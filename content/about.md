@@ -2,10 +2,9 @@
 title: About RTD
 type: about
 ---
-
-<p align="center">
+<br>
   Learning from the best minds of our times.
-</p>
+
 
 <h2> Hi I'm Kevin. </h2>
 
