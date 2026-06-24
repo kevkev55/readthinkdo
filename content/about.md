@@ -1,6 +1,12 @@
 ---
-title: About
+title: About RTD
 type: about
 ---
 
-This is the about page.
+<p align="center">
+  Learning from the best minds of our times.
+</p>
+
+Hi I'm Harry.
+
+
