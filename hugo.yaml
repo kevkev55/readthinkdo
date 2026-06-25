@@ -24,7 +24,7 @@ menu:
     - name: About
       pageRef: /about
       weight: 2
-    - name: Quotes
+    - name: Quotes Archive
       pageRef: /quotes
       weight: 3
     - name: Contact ↗
