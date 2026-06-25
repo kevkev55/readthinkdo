@@ -60,3 +60,25 @@ Another thing of course is life will have terrible blows, horrible blows, unfair
 >“Read 500 pages like this every day... That's how knowledge works. It builds up, like compound interest. All of you can do it, but I guarantee not many of you will do it.”
 
 >"I just sit in my office and read all day."
+
+## Kevin Kelly
+
+>"Embrace pronoia which is the opposite of paranoia. Choose to believe that the entire universe is conspiring behind your back to make you a success."
+
+>"Being enthusiastic is worth 25 IQ points."
+
+>"Commit to doing no work no business no income one day a week. Call it a sabbath (or not). Use that day for resting, recharging, and cultivating the most important things in life. Counterintuitively, this sabbath will prove to be your most productive act all week."
+
+>"When you forgive others they may not notice but you will heal. Forgiveness is not something we do for others; it is a gift to ourselves."
+
+>"You don’t have to attend every argument you are invited to."
+
+>"Movement plus variety equals health."
+
+>"Listening well is a superpower. While listening to someone you love keep asking them “Is there more?” until there is no more."
+
+>"The best way to get to yes in a negotiation is to truly understand what yes means for the other party."
+
+>"Draw to discover what you see. Write to discover what you think."
+
+>"When you give away 10% of your income you lose 10% of your purchasing power which is minor compared to the 110% increase in happiness you will gain."
