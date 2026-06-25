@@ -33,6 +33,8 @@ Another thing of course is life will have terrible blows, horrible blows, unfair
 
 >"If, in your thinking, you rely entirely on others, often through purchase or professional advice, whenever outside a small territory of your own, you will suffer much calamity"
 
+>"I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you."
+
 ## Li Lu
 
 >“You need to get into the frame of mind of thinking about what really makes one business more successful than others. What is their advantage, why are they making more money, and some doing just less. Why is it? The only way you can find that is studying the ones that are already established”
