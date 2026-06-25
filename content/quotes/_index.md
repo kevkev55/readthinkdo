@@ -56,3 +56,5 @@ Another thing of course is life will have terrible blows, horrible blows, unfair
 ## Warren Buffett
 
 >“Read 500 pages like this every day... That's how knowledge works. It builds up, like compound interest. All of you can do it, but I guarantee not many of you will do it.”
+
+>"I just sit in my office and read all day."
