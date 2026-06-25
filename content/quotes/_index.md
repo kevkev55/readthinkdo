@@ -33,4 +33,12 @@ Another thing of course is life will have terrible blows, horrible blows, unfair
 
 ## Ralph Waldo Emerson
 
->“The law of nature is: Do the thing, and you shall have the power, but they who do not the thing have not the power.” 
+>“The law of nature is: Do the thing, and you shall have the power, but they who do not the thing have not the power.”
+
+## Jeff Olson (Slight Edge)
+
+>“Time will either promote you or expose you.” 
+
+>“A man can fail many times, but he isn’t a failure until he begins to blame somebody else.”
+
+“Shawn Achor’s five happy habits: Every morning write down three new things you’re grateful for. Journal for two minutes a day about a positive experience from the past 24 hours. Meditate daily for a few minutes. At the start of every day, write an email to someone praising or thanking them. Get fifteen minutes of simple cardio exercise a day.” 
