@@ -1,7 +1,7 @@
 ---
 title: Biographies
 type: docs
-prev: /
+prev: /books
 ---
 
 A simple demo page.
