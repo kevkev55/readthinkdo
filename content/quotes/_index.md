@@ -88,7 +88,10 @@ Another thing of course is life will have terrible blows, horrible blows, unfair
 >"When you give away 10% of your income you lose 10% of your purchasing power which is minor compared to the 110% increase in happiness you will gain."
 
 ## Craig Mod
+
 >"There are a thousand beautiful ways to start the day that don’t begin with looking at a phone. And yet so few of us choose to do so."
+
+>"I want my attention back. Did I have it before Twitter became a demagogue’s pulpit? When it was just a few of us, goofing around? When to have had a thousand followers was to be a god? When the scale of things felt more … human?"
 
 ## Roy Neuberger
 
