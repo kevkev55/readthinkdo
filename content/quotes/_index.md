@@ -33,6 +33,10 @@ Another thing of course is life will have terrible blows, horrible blows, unfair
 
 >"If, in your thinking, you rely entirely on others, often through purchase or professional advice, whenever outside a small territory of your own, you will suffer much calamity"
 
+## Li Lu
+
+>“You need to get into the frame of mind of thinking about what really makes one business more successful than others. What is their advantage, why are they making more money, and some doing just less. Why is it? The only way you can find that is studying the ones that are already established”
+
 ## Thich Nhat Hanh
 
 >“The most precious gift we can offer anyone is our attention.”
