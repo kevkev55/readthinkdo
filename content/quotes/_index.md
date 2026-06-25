@@ -5,11 +5,11 @@ cascade:
 type: docs
 ----------
 
-## Quotes Archive
+## Benjamin Disraeli
 
 > “Man is not the creature of circumstances; circumstances are the creatures of men.”
 >
-> — Benjamin Disraeli
+## Charlie Munger
 
 Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Systematically you get ahead, but not necessarily in fast spurts. Nevertheless, you build discipline by preparing for fast spurts. Slug it out one inch at a time, day by day. At the end of the day – if you live long enough – most people get what they deserve. - Charlie Munger
 
