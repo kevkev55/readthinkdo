@@ -37,6 +37,8 @@ Another thing of course is life will have terrible blows, horrible blows, unfair
 
 >"I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you."
 
+>"If you can't somehow find yourself very interested in something, I don't think you'll succeed very much, even if you're fairly smart."
+
 ## Li Lu
 
 >“You need to get into the frame of mind of thinking about what really makes one business more successful than others. What is their advantage, why are they making more money, and some doing just less. Why is it? The only way you can find that is studying the ones that are already established”
