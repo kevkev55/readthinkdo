@@ -1,0 +1,7 @@
+---
+title: Biographies
+type: docs
+prev: /
+---
+
+A simple demo page.
