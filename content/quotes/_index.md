@@ -82,3 +82,7 @@ Another thing of course is life will have terrible blows, horrible blows, unfair
 >"Draw to discover what you see. Write to discover what you think."
 
 >"When you give away 10% of your income you lose 10% of your purchasing power which is minor compared to the 110% increase in happiness you will gain."
+
+## Roy Neuberger
+
+>"I have learned more from reading than from formal education"
