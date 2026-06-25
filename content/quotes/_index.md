@@ -13,6 +13,8 @@ type: docs
 
 >“I'm very selective. I, sometimes, skim. I, sometimes, read one chapter and I sometimes read the damn thing twice. It's been my experience in life [that] if you just keep thinking and reading, you don't have to work.”
 
+>"I am not a victim, I am a survivor."
+
 >Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Systematically you get ahead, but not necessarily in fast spurts. Nevertheless, you build discipline by preparing for fast spurts. Slug it out one inch at a time, day by day. At the end of the day – if you live long enough – most people get what they deserve.
 
 >“It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.”
