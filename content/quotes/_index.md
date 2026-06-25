@@ -11,6 +11,8 @@ type: docs
 >
 ## Charlie Munger
 
+>“I'm very selective. I, sometimes, skim. I, sometimes, read one chapter and I sometimes read the damn thing twice. It's been my experience in life [that] if you just keep thinking and reading, you don't have to work.”
+
 >Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Systematically you get ahead, but not necessarily in fast spurts. Nevertheless, you build discipline by preparing for fast spurts. Slug it out one inch at a time, day by day. At the end of the day – if you live long enough – most people get what they deserve.
 
 >“It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.”
@@ -42,3 +44,7 @@ Another thing of course is life will have terrible blows, horrible blows, unfair
 >“A man can fail many times, but he isn’t a failure until he begins to blame somebody else.”
 
 >“Shawn Achor’s five happy habits: Every morning write down three new things you’re grateful for. Journal for two minutes a day about a positive experience from the past 24 hours. Meditate daily for a few minutes. At the start of every day, write an email to someone praising or thanking them. Get fifteen minutes of simple cardio exercise a day.” 
+
+## Warren Buffett
+
+>“Read 500 pages like this every day... That's how knowledge works. It builds up, like compound interest. All of you can do it, but I guarantee not many of you will do it.”
