@@ -10,7 +10,7 @@ Learning from the best minds of our times.
 {{< cards >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
-  {{< card link="quotes" title="Quotes Archive" icon="sparkles" >}}
+  {{< card link="quotes" title="Quotes" icon="sparkles" >}}
 {{< /cards >}}
 
 ## Documentation
