@@ -29,6 +29,8 @@ type: docs
 >And of course self-serving bias, you want to get that out of yourself; thinking that what’s good for you is good for the wider civilization and rationalizing all these ridiculous conclusions based on the subconscious tendency to serve one’s self."
 Another thing of course is life will have terrible blows, horrible blows, unfair blows, doesn’t matter. And some people recover and others don’t. And there I think the attitude of Epictetus is the best. He thought that every mischance in life was an opportunity to behave well, every mischance in life was an opportunity to learn something, and your duty was not to be submerged in self-pity but to utilize the terrible blow in a constructive fashion. That is a very good idea."
 
+>"If, in your thinking, you rely entirely on others, often through purchase or professional advice, whenever outside a small territory of your own, you will suffer much calamity"
+
 ## Thich Nhat Hanh
 
 >“The most precious gift we can offer anyone is our attention.”
