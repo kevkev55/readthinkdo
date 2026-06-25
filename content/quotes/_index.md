@@ -30,3 +30,7 @@ Another thing of course is life will have terrible blows, horrible blows, unfair
 ## Thich Nhat Hanh
 
 >“The most precious gift we can offer anyone is our attention.”
+
+## Ralph Waldo Emerson
+
+>“The law of nature is: Do the thing, and you shall have the power, but they who do not the thing have not the power.” 
