@@ -7,7 +7,7 @@ type: docs
 
 ## Benjamin Disraeli
 
-> “Man is not the creature of circumstances; circumstances are the creatures of men.”
+> “Man is not the creature of circumstances, circumstances are the creatures of men.”
 >
 ## Charlie Munger
 
