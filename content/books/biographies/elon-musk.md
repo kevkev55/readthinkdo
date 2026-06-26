@@ -1,9 +1,6 @@
 ---
-title: Leaf Page
+title: Elon Musk by Walter Isaacson
 type: docs
 prev: books/biographies/
 ---
 
-This page is under a folder.
-
-Elon Musk
