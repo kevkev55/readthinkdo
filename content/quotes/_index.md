@@ -98,3 +98,7 @@ Another thing of course is life will have terrible blows, horrible blows, unfair
 ## Roy Neuberger
 
 >"I have learned more from reading than from formal education"
+
+##Orison Swett Marden
+
+>"The proudest moment of my life," said Elihu Burritt, "was when I had first gained the full meaning of the first fifteen lines of Homer's Iliad." Elihu Burritt's father died when he was sixteen, and Elihu was apprenticed to a blacksmith in his native village of New Britain, Conn. He had to work at the forge for ten or twelve hours a day; but while blowing the bellows, he would solve mentally difficult problems in arithmetic. In a diary kept at Worcester, whither he went some ten years later to enjoy its library privileges, are such entries as these,—"Monday, June 18, headache, 40 pages Cuvier's 'Theory of the Earth,' 64 pages French, 11 hours' forging. Tuesday, June 19, 60 lines Hebrew, 30 Danish, 10 lines Bohemian, 9 lines Polish, 15 names of stars, 10 hours' forging. Wednesday, June 20, 25 lines Hebrew, 8 lines Syriac, 11 hours' forging." He mastered 18 languages and 32 dialects. He became eminent as the "Learned Blacksmith," and for his noble work in the service of humanity. Edward Everett said of the manner in which this boy with no chance acquired great learning: "It is enough to make one who has good opportunities for education hang his head in shame."
