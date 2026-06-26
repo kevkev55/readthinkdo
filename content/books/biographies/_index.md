@@ -1,5 +1,5 @@
 ---
-title: Biographies Folder
+title: Biographies
 type: docs
 prev: books
 next: books/biographies/elon-musk
