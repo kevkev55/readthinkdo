@@ -4,7 +4,7 @@ type: docs
 prev: books
 next: books/biographies/elon-musk
 sidebar:
-  open: true
+  open: false
 ---
 
 ## Elon Musk by Walter Isaacson
