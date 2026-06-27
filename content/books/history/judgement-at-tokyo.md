@@ -1,0 +1,5 @@
+---
+title: Judgement at Tokyo
+type: docs
+prev: books/history/
+---
