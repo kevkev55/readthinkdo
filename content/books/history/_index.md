@@ -1,6 +1,6 @@
 ---
 
-title: "Quotes Archive"
+title: "History"
 cascade:
 type: docs
 ----------
