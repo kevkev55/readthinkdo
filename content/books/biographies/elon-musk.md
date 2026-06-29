@@ -1,5 +1,5 @@
 ---
-title: Elon Musk by Walter Isaacson
+title: Elon Musk
 type: docs
 prev: books/biographies/
 ---
